@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\candi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\candi\\.nuget\\packages"
+    ]
+  }
+}
